@@ -16,7 +16,7 @@
 
 -----
 
-| <img src="images/ilkayyildiz.jpg" width="154"/> |
+| <img src="ilkayyildiz.jpg" width="154"/> |
 
 [Ilkay Yildiz](https://www.linkedin.com/in/ilkay-y%C4%B1ld%C4%B1z/), Northeastern University, Electrical and Computer Engineering Department
 
