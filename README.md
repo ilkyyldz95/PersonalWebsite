@@ -57,16 +57,19 @@ Ilkay Yildiz received her PhD in 2017 from the Electrical and Computer Engineeri
 *B. Kadioglu, I. Yildiz, P. Closas, M.B. Fried-Oken, D. Erdogmus. IEEE Sensors letters, 2018*
 
 
+[**M-estimation based Subspace Learning for Brain Computer Interfaces**](https://ieeexplore.ieee.org/abstract/document/8471173)
+
+*B. Kadioglu, I. Yildiz, P. Closas, D. Erdogmus. Journal of Selected Topics in Signal Processing, 2018*
 
 
+[**Coherence-aware stereophonic residual echo estimation**](https://ieeexplore.ieee.org/abstract/document/7895585)
 
-- B. Kadioglu, I. Yildiz, P. Closas, D. Erdogmus, “M-estimation based Subspace Learning for Brain Computer Interfaces”, Journal of Selected Topics in Signal Processing, 2018
-- M.L. Valero, I. Yildiz, E. Mabande, E.A.P. Habets, “Coherence-aware stereophonic residual echo estimation”, HSCMA, 2017
-- H. C. Baykara, E. Biyik, G. Gul, D. Onural, A. S. Ozturk, I. Yildiz, “Real-Time Detection, Tracking and Classification of Multiple Moving Objects in UAV Videos”, ICTAI, 2017
-
+*M.L. Valero, I. Yildiz, E. Mabande, E.A.P. Habets. HSCMA, 2017*
 
 
+[**Real-Time Detection, Tracking and Classification of Multiple Moving Objects in UAV Videos**](https://ieeexplore.ieee.org/abstract/document/8372048)
 
+*H. C. Baykara, E. Biyik, G. Gul, D. Onural, A. S. Ozturk, I. Yildiz. ICTAI, 2017*
 
 
 
