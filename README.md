@@ -1,5 +1,5 @@
 
-|<img src="ilkayyildiz.jpg#center" width="154"/> |
+<img src="ilkayyildiz.jpg#center" width="154"/>
 
 ## BIO
 
