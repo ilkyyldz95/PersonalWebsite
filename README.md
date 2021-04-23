@@ -27,16 +27,39 @@ Ilkay Yildiz received her PhD in 2017 from the Electrical and Computer Engineeri
 *İ. Yıldız, J. Dy, D. Erdoğmuş, J. Kalpathy-Cramer, S. Ostmo, J. P. Campbell, M. F. Chiang, and S. Ioannidis. AISTATS, 2020.* [\[talk\]](https://slideslive.com/38929956/fast-and-accurate-ranking-regression)
 
 
-**Image-Driven Furniture Style for Interactive 3D Scene Modeling**
+[**Image-Driven Furniture Style for Interactive 3D Scene Modeling**](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14126)
 
 *T. Weiss, I. Yildiz, N. Agarwal, E. Ataer-Cansizoglu, J.-W., Choi. Pacific Graphics, 2020*
 
 
-- I. Yildiz, E. Cansizoglu, H. Liu, P.B. Golbus, O. Tezcan, J.W. Choi, “Deep Ranking for Style-Aware Room Recommendations”, AAAI, Student Abstract, 2020
-- M. Han, S. Y. Günay, I. Yildiz, P. Bonato, C. D. Onal, T. Padir, G. Schirner, D. Erdogmus, “From hand-perspective visual information to grasp type probabilities: deep learning via ranking labels”, PETRA, 2020
-- I. Yildiz, P. Tian, J. Dy, D. Erdogmus, J. Brown, J. Kalpathy-Cramer, S. Ostmo, J. P. Campbell, M. F. Chiang, S. Ioannidis, “Classification and Comparison via Neural Networks”, Elsevier J. of Neural Networks, Vol. 118, 10/2019, pp. 65-80
-- V. M. Yildiz, P. Tian, I. Yildiz, J. M. Brown, J. Kalpathy-Cramer, J. Dy, S. Ioannidis, D. Erdogmus, S. Ostmo, S. J. Kim, R. P. Chan, “Plus Disease in Retinopathy of Prematurity: Convolutional Neural Network Performance Using a Combined Neural Network and Feature Extraction Approach”, Translational Vision Science & Technology, 9(2), 10-10.
-- B. Kadioglu, I. Yildiz, P. Closas, M.B. Fried-Oken, D. Erdogmus, “Robust Fusion of c-VEP and Gaze”, Journal of Selected Topics in Signal Processing, 2018
+**Deep Ranking for Style-Aware Room Recommendations**
+
+*I. Yildiz, E. Cansizoglu, H. Liu, P.B. Golbus, O. Tezcan, J.W. Choi. AAAI, Student Abstract, 2020*
+
+
+[**From hand-perspective visual information to grasp type probabilities: deep learning via ranking labels**](https://dl.acm.org/doi/abs/10.1145/3316782.3316794)
+
+*M. Han, S. Y. Günay, I. Yildiz, P. Bonato, C. D. Onal, T. Padir, G. Schirner, D. Erdogmus. PETRA, 2020*
+
+
+[**Classification and Comparison via Neural Networks**](https://www.sciencedirect.com/science/article/abs/pii/S0893608019301777)
+
+*I. Yildiz, P. Tian, J. Dy, D. Erdogmus, J. Brown, J. Kalpathy-Cramer, S. Ostmo, J. P. Campbell, M. F. Chiang, S. Ioannidis. Elsevier J. of Neural Networks, 2019*
+
+
+[**Plus Disease in Retinopathy of Prematurity: Convolutional Neural Network Performance Using a Combined Neural Network and Feature Extraction Approach**](https://tvst.arvojournals.org/article.aspx?articleid=2761572)
+
+*V. M. Yildiz, P. Tian, I. Yildiz, J. M. Brown, J. Kalpathy-Cramer, J. Dy, S. Ioannidis, D. Erdogmus, S. Ostmo, S. J. Kim, R. P. Chan. Translational Vision Science & Technology, 2019*
+
+
+[**Robust Fusion of c-VEP and Gaze**](https://ieeexplore.ieee.org/abstract/document/8515115)
+
+*B. Kadioglu, I. Yildiz, P. Closas, M.B. Fried-Oken, D. Erdogmus. IEEE Sensors letters, 2018*
+
+
+
+
+
 - B. Kadioglu, I. Yildiz, P. Closas, D. Erdogmus, “M-estimation based Subspace Learning for Brain Computer Interfaces”, Journal of Selected Topics in Signal Processing, 2018
 - M.L. Valero, I. Yildiz, E. Mabande, E.A.P. Habets, “Coherence-aware stereophonic residual echo estimation”, HSCMA, 2017
 - H. C. Baykara, E. Biyik, G. Gul, D. Onural, A. S. Ozturk, I. Yildiz, “Real-Time Detection, Tracking and Classification of Multiple Moving Objects in UAV Videos”, ICTAI, 2017
