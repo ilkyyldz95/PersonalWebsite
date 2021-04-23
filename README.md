@@ -13,7 +13,9 @@ Ilkay Yildiz received her PhD in 2017 from the Electrical and Computer Engineeri
 
 ## Publications
 
-- I. Yildiz, J. Dy, D. Erdogmus, S. Ostmo, J. P. Campbell, M. F. Chiang, S. Ioannidis, “Deep Spectral Ranking”, AISTATS, Virtual Conference, 2021. 
+[Deep Spectral Ranking](http://proceedings.mlr.press/v130/yildiz21a/yildiz21a.pdf)
+İ. Yıldız, J. Dy, D. Erdoğmuş, S. Ostmo, J. P. Campbell, M. F. Chiang, and S. Ioannidis. AISTATS, 2021. [talk](https://www.youtube.com/watch?v=GZKGAlvvUGw)
+
 - V. M. Yildiz, S. Ioannidis, I. Yildiz, P. Tian, J. P. Campbell, S. Ostmo, J. Kalpathy-Cramer, M. F. Chiang, D.Erdogmus, J. Dy, “Structural Visual Guidance Attention Networks in Retinopathy of Prematurity”, ISBI, Virtual Conference, 2021
 - A. Hanif, I. Yildiz, P. Tian, B. Kalkanli, D. Erdogmus, S. Ioannidis, J. Dy, J. Kalpathy-Cramer, S. Ostmo, K. Jonas, R. P. Chan, M. F. Chiang, J. P. Campbell, “Improved training efficiency for deep learning models using disease severity comparison labels”, ARVO Abstract, 2021
 - I. Yildiz, J. Dy, D. Erdogmus, J. Kalpathy-Cramer, S. Ostmo, J. P. Campbell, M. F. Chiang, S. Ioannidis, “Fast and Accurate Ranking Regression”, AISTATS, Virtual Conference, 2020
