@@ -19,7 +19,7 @@
 *A. Hanif, I. Yildiz, P. Tian, B. Kalkanli, D. Erdogmus, S. Ioannidis, J. Dy, J. Kalpathy-Cramer, S. Ostmo, K. Jonas, R. P. Chan, M. F. Chiang, J. P. Campbell. ARVO Abstract, 2021*
 
 
-[**Fast and Accurate Ranking Regression**](https://ece.northeastern.edu/fac-ece/ioannidis/static/pdf/2020/C_YildizI_SpectralRanking_AISTATS_2020.pdf)
+[**Fast and Accurate Ranking Regression**](http://proceedings.mlr.press/v108/yildiz20a/yildiz20a.pdf)
 
 *İ. Yıldız, J. Dy, D. Erdoğmuş, J. Kalpathy-Cramer, S. Ostmo, J. P. Campbell, M. F. Chiang, and S. Ioannidis. AISTATS, 2020.* [\[talk\]](https://slideslive.com/38929956/fast-and-accurate-ranking-regression)
 
