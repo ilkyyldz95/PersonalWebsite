@@ -14,7 +14,7 @@ Ilkay Yildiz received her PhD in 2017 from the Electrical and Computer Engineeri
 
 [**Structural Visual Guidance Attention Networks in Retinopathy of Prematurity**]()
 
-*V. M. Yildiz, S. Ioannidis, I. Yildiz, P. Tian, J. P. Campbell, S. Ostmo, J. Kalpathy-Cramer, M. F. Chiang, D.Erdogmus, J. Dy. ISBI, 2021.* [\[talk\]]()
+*V. M. Yildiz, S. Ioannidis, I. Yildiz, P. Tian, J. P. Campbell, S. Ostmo, J. Kalpathy-Cramer, M. F. Chiang, D.Erdogmus, J. Dy. ISBI, 2021.* 
 
 
 **Improved training efficiency for deep learning models using disease severity comparison labels**
