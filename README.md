@@ -13,14 +13,31 @@ Ilkay Yildiz received her PhD in 2017 from the Electrical and Computer Engineeri
 
 ## Publications
 
-[Deep Spectral Ranking](http://proceedings.mlr.press/v130/yildiz21a/yildiz21a.pdf)
+[**Deep Spectral Ranking**](http://proceedings.mlr.press/v130/yildiz21a/yildiz21a.pdf)
 
 *İ. Yıldız, J. Dy, D. Erdoğmuş, S. Ostmo, J. P. Campbell, M. F. Chiang, and S. Ioannidis. AISTATS, 2021.* [\[talk\]](https://www.youtube.com/watch?v=GZKGAlvvUGw)
 
-- V. M. Yildiz, S. Ioannidis, I. Yildiz, P. Tian, J. P. Campbell, S. Ostmo, J. Kalpathy-Cramer, M. F. Chiang, D.Erdogmus, J. Dy, “Structural Visual Guidance Attention Networks in Retinopathy of Prematurity”, ISBI, Virtual Conference, 2021
-- A. Hanif, I. Yildiz, P. Tian, B. Kalkanli, D. Erdogmus, S. Ioannidis, J. Dy, J. Kalpathy-Cramer, S. Ostmo, K. Jonas, R. P. Chan, M. F. Chiang, J. P. Campbell, “Improved training efficiency for deep learning models using disease severity comparison labels”, ARVO Abstract, 2021
-- I. Yildiz, J. Dy, D. Erdogmus, J. Kalpathy-Cramer, S. Ostmo, J. P. Campbell, M. F. Chiang, S. Ioannidis, “Fast and Accurate Ranking Regression”, AISTATS, Virtual Conference, 2020
-- T. Weiss, I. Yildiz, N. Agarwal, E. Ataer-Cansizoglu, J.-W., Choi, “Image-Driven Furniture Style for Interactive 3D Scene Modeling”, Pacific Graphics, 2020
+
+[**Structural Visual Guidance Attention Networks in Retinopathy of Prematurity**]()
+
+*V. M. Yildiz, S. Ioannidis, I. Yildiz, P. Tian, J. P. Campbell, S. Ostmo, J. Kalpathy-Cramer, M. F. Chiang, D.Erdogmus, J. Dy. ISBI, 2021.* [\[talk\]]()
+
+
+**Improved training efficiency for deep learning models using disease severity comparison labels**
+
+*A. Hanif, I. Yildiz, P. Tian, B. Kalkanli, D. Erdogmus, S. Ioannidis, J. Dy, J. Kalpathy-Cramer, S. Ostmo, K. Jonas, R. P. Chan, M. F. Chiang, J. P. Campbell. ARVO Abstract, 2021*
+
+
+[**Fast and Accurate Ranking Regression**](https://ece.northeastern.edu/fac-ece/ioannidis/static/pdf/2020/C_YildizI_SpectralRanking_AISTATS_2020.pdf)
+
+*İ. Yıldız, J. Dy, D. Erdoğmuş, J. Kalpathy-Cramer, S. Ostmo, J. P. Campbell, M. F. Chiang, and S. Ioannidis. AISTATS, 2020.* [\[talk\]](https://slideslive.com/38929956/fast-and-accurate-ranking-regression)
+
+
+**Image-Driven Furniture Style for Interactive 3D Scene Modeling**
+
+*T. Weiss, I. Yildiz, N. Agarwal, E. Ataer-Cansizoglu, J.-W., Choi. Pacific Graphics, 2020*
+
+
 - I. Yildiz, E. Cansizoglu, H. Liu, P.B. Golbus, O. Tezcan, J.W. Choi, “Deep Ranking for Style-Aware Room Recommendations”, AAAI, Student Abstract, 2020
 - M. Han, S. Y. Günay, I. Yildiz, P. Bonato, C. D. Onal, T. Padir, G. Schirner, D. Erdogmus, “From hand-perspective visual information to grasp type probabilities: deep learning via ranking labels”, PETRA, 2020
 - I. Yildiz, P. Tian, J. Dy, D. Erdogmus, J. Brown, J. Kalpathy-Cramer, S. Ostmo, J. P. Campbell, M. F. Chiang, S. Ioannidis, “Classification and Comparison via Neural Networks”, Elsevier J. of Neural Networks, Vol. 118, 10/2019, pp. 65-80
