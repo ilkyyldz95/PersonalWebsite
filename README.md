@@ -29,7 +29,7 @@
 *T. Weiss, I. Yildiz, N. Agarwal, E. Ataer-Cansizoglu, J.-W., Choi. Pacific Graphics, 2020*
 
 
-**Deep Ranking for Style-Aware Room Recommendations**
+[**Deep Ranking for Style-Aware Room Recommendations**](https://ojs.aaai.org//index.php/AAAI/article/view/7260)
 
 *I. Yildiz, E. Cansizoglu, H. Liu, P.B. Golbus, O. Tezcan, J.W. Choi. AAAI, Student Abstract, 2020*
 
